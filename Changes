@@ -1,5 +1,12 @@
 Revision history for Bencher-Scenarios-DataCSelWrapStruct
 
+0.002   2016-08-26 (PERLANCAR)
+
+	- No functional changes.
+
+	- [doc] Show result and argument size in sample benchmark result.
+
+
 0.001   2016-08-26 (PERLANCAR)
 
         - First release.
